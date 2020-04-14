@@ -27,7 +27,7 @@ These visualization were created in R. The following packages are needed to recr
   <li>https://www.cdc.gov/smallpox/symptoms/index.html#earlyrash</li>
 </ul>
 
-<i>SARS/i>
+<i>SARS</i>
 <ul>
   <li>https://www.cdc.gov/sars/about/faq.html</li>
 </ul>
